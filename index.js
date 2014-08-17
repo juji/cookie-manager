@@ -74,7 +74,7 @@ cookie.prototype.search = function( domain, path, date, browser, secure){
 	for(var i in f){
 		if( 
 			f[i].pathReg.test(path) &&
-			date < f[i].expires.valueOf() &&
+			(!f[i].expires || date < f[i].expires.valueOf()) &&
 			!( browser && f[i].httponly ) &&
 			( secure == f[i].secure )
 		) g.push(f[i]);

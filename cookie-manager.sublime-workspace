@@ -119,7 +119,15 @@
 			"file": "index.js",
 			"settings":
 			{
-				"buffer_size": 1480,
+				"buffer_size": 2224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2171,
 				"line_ending": "Unix"
 			}
 		},
@@ -127,7 +135,15 @@
 			"file": "test/test.js",
 			"settings":
 			{
-				"buffer_size": 77,
+				"buffer_size": 2478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 744,
 				"line_ending": "Unix"
 			}
 		}
@@ -481,6 +497,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"cval2",
+			"cname2",
+			"console",
+			"describe(",
+			"t.",
+			"console.log('http",
+			"console.log('http://",
+			"domain.com",
+			"xss",
 			"this.request",
 			"http.send",
 			"header",
@@ -599,16 +624,7 @@
 			"api/Page",
 			"page_",
 			"savebtn",
-			"dropped",
-			"p",
-			"$column",
-			"getValues",
-			"}\n",
-			"$d",
-			"clean",
-			"Error::fatal",
-			"$e",
-			"id"
+			"dropped"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -616,6 +632,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"cvalWWW",
+			"cnameWWW",
+			"console.log('\\thttp://",
+			"example.com",
 			"this.req",
 			"http.req",
 			"http.request",
@@ -733,7 +753,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -742,43 +762,72 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1480,
+						"buffer_size": 2224,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1236,
-								1236
+								1293,
+								1293
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 565.0,
+						"translation.x": -0.0,
+						"translation.y": 758.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "test/test.js",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 77,
+						"buffer_size": 2171,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								71,
-								71
+								1219,
+								1219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
 							]
 						],
 						"settings":
@@ -791,6 +840,36 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -838,7 +917,7 @@
 	"project": "cookie-manager.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
