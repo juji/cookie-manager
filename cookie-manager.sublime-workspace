@@ -1,0 +1,908 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"readS",
+				"fs.readSync"
+			],
+			[
+				"exists",
+				"fs.existsSync"
+			],
+			[
+				"set_incl",
+				"set_include_path()	standard Function"
+			],
+			[
+				"jitable",
+				"jitablehead"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rawurl",
+				"rawurlencode"
+			],
+			[
+				"imagecreate",
+				"imagecreatefromstring"
+			],
+			[
+				"imagecreatefrom",
+				"imagecreatefrompng"
+			],
+			[
+				"inet_",
+				"inet_ntop()	standard Function"
+			],
+			[
+				"mysqli_",
+				"mysql_insert_id"
+			],
+			[
+				"language_",
+				"language_active"
+			],
+			[
+				"setInter",
+				"setInterval"
+			],
+			[
+				"widht",
+				"Width"
+			],
+			[
+				"size",
+				"sizeof()	standard Function"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"border-",
+				"border-box"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"preg_",
+				"preg_replace"
+			],
+			[
+				"call_user_fun",
+				"call_user_func_array"
+			],
+			[
+				"call_user",
+				"call_user_method"
+			],
+			[
+				"writeFile",
+				"fs.writeFileSync"
+			],
+			[
+				"file",
+				"filelist"
+			],
+			[
+				"cooki",
+				"cookies"
+			],
+			[
+				"current",
+				"currentHeader"
+			],
+			[
+				"http",
+				"httpRequest"
+			],
+			[
+				"pa",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/test.js",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"linter setting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linte",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint setting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"view",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"fol",
+				"Project: Add Folder"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"Snippet: ",
+				"Snippet: |date"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"snipp",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"pacaka",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"view ",
+				"View: Toggle Tabs"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file",
+				"File: Save All"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/yagitudeh/WORK/npm/cookie-manager/package.json",
+		"/media/yagitudeh/WORK/npm/cookie-manager/README.md",
+		"/media/yagitudeh/WORK/npm/cookie-manager/.gitignore",
+		"/media/yagitudeh/WORK/npm/jhttp/package.json",
+		"/media/yagitudeh/WORK/npm/jhttp/test/tests.js",
+		"/media/yagitudeh/WORK/www/test/post.php",
+		"/media/yagitudeh/WORK/npm/jhttp/README.md",
+		"/media/yagitudeh/scripts/indowebster/httpRequest.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/Vendor.js",
+		"/media/yagitudeh/WORK/www/bridalbook/README.md",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/fullapp.js",
+		"/media/yagitudeh/WORK/www/bridalbook/bridalbook-data.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/fetch-vendor-list.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/cli-app.js",
+		"/media/yagitudeh/WORK/www/bridalbook/test/test.js",
+		"/media/yagitudeh/WORK/www/bridalbook/test/index.html",
+		"/media/yagitudeh/WORK/www/bridalbook/asdf.asd",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/category.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/VendorListPages.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/VendorList.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/myRequest.js",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/save-csv.js",
+		"/media/yagitudeh/WORK/www/bridalbook/testfile",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/fetch-vendor.js",
+		"/media/yagitudeh/WORK/www/bridalbook/data.csv",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/myhttp.js",
+		"/media/yagitudeh/WORK/www/bridalbook/app.js",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/e68b744c6871a29985f0aa3d1f68a7ed",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/noFailRequest.js",
+		"/media/yagitudeh/scripts/indowebster/indowebster.js",
+		"/media/yagitudeh/scripts/indowebster/idws-linkFinder.js",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/6a10932c72363adc3d20c2ca8f4227a5",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/da64021084cfb15b1bbfefd41b48e0c3",
+		"/media/yagitudeh/WORK/www/bridalbook/modules/node-cli.js",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/47979c4230af6c1d9716c9e1761e4f32",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/ebd790fa010933ae8534f235d82663a3",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/de3abaf2bfb479980c7e728f1d48d1a7",
+		"/media/yagitudeh/WORK/www/bridalbook/package.json",
+		"/home/juji/index",
+		"/media/yagitudeh/WORK/www/bridalbook/.gitignore",
+		"/media/yagitudeh/WORK/www/bridalbook/htcache/d9e48149097c1eaeefcc3a6f6f27ef42",
+		"/media/yagitudeh/WORK/www/bridalbook/test/category.js",
+		"/media/yagitudeh/WORK/www/bridalbook/cache/category",
+		"/media/yagitudeh/WORK/www/enet/Gruntfile.js",
+		"/media/yagitudeh/WORK/www/enet/.subscribe-rhc/.gitignore",
+		"/media/yagitudeh/WORK/www/enet/.gitignore",
+		"/media/yagitudeh/WORK/www/enet/push/server.js",
+		"/media/yagitudeh/WORK/www/enet/.subscribe-rhc/server.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/console.js",
+		"/media/yagitudeh/WORK/www/enet/app/component/header-full-build.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/header-full.php",
+		"/media/yagitudeh/WORK/www/enet/_build/app/component/header-full.php",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/console.min.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.build.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/lte-ie7.build.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/ext-library.build.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/ext-library.build.css",
+		"/home/juji/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/index.css",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/library.css",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/login.css",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/ext-library.min.compiled.js",
+		"/home/juji/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/media/yagitudeh/WORK/www/enet/subscribe/server.js",
+		"/home/juji/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/juji/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/media/yagitudeh/WORK/www/enet/savegit",
+		"/media/yagitudeh/WORK/www/enet/subscribe/.gitignore",
+		"/media/yagitudeh/WORK/www/enet/app/component/opening.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/header-min.php",
+		"/media/yagitudeh/WORK/www/enet/subscribe/package.json",
+		"/media/yagitudeh/WORK/www/enet/index.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Modul.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Page.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/mobile-meta.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Vars.php",
+		"/media/yagitudeh/scripts/closure-compiler/compiler-latest/README.md",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.run.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.modul.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.classes.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.event.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.xhr.js",
+		"/media/yagitudeh/WORK/www/enet/subscribe/node.pid",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/normalize.min.css",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/normalize.css",
+		"/media/yagitudeh/WORK/www/enet/app/component/topbar.php",
+		"/media/yagitudeh/WORK/www/enet/subscribe/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest/tests/test-events.js",
+		"/media/yagitudeh/WORK/www/enet/subscribe/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest/tests/test-redirect-302.js",
+		"/media/yagitudeh/WORK/www/enet/subscribe/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest/tests/test-request-methods.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/json2.min.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/lodash.underscore.min.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/underscore-min.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/jquery.min.js",
+		"/media/yagitudeh/CODE/git/q/q.min.js",
+		"/media/yagitudeh/CODE/git/q/q.js",
+		"/media/yagitudeh/WORK/www/enet/app/asset/css/font-awesome.min.css",
+		"/media/yagitudeh/WORK/www/enet/app/asset/js/App.js",
+		"/media/yagitudeh/WORK/www/enet/_test/push.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/footer.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/right-menu.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/closing.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/header.php",
+		"/media/yagitudeh/WORK/www/enet/app/component/left-menu.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Enet.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/DB.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Data.php",
+		"/media/yagitudeh/WORK/www/enet/_routing.php",
+		"/media/yagitudeh/WORK/www/enet/subscribe/README.md",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Auth.php",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Component.php",
+		"/media/yagitudeh/WORK/www/enet/.htaccess",
+		"/media/yagitudeh/WORK/www/enet/app/classes/Utils.php",
+		"/media/yagitudeh/WORK/www/cmsbaru/admin/classes/Url.php",
+		"/media/yagitudeh/WORK/www/enet/api/_module/example.php",
+		"/media/yagitudeh/WORK/www/enet/img/index.php",
+		"/media/yagitudeh/WORK/www/enet/img/Variables.php",
+		"/media/yagitudeh/WORK/www/enet/api/_init.php",
+		"/media/yagitudeh/WORK/www/enet/api/_settings.php",
+		"/media/yagitudeh/WORK/www/enet/api/index.php",
+		"/media/yagitudeh/WORK/www/enet/subscribe/.openshift/action_hooks/deploy",
+		"/media/yagitudeh/WORK/www/enet/api/_includes.php",
+		"/media/yagitudeh/WORK/www/enet/php-error.log",
+		"/media/yagitudeh/WORK/www/enet/subscribe/index.js",
+		"/media/yagitudeh/WORK/www/enet/subscribe/index.php",
+		"/media/yagitudeh/WORK/www/enet/subscribe/node_modules/socket.io/node_modules/socket.io-client/socket.io.js",
+		"/media/yagitudeh/WORK/www/enet/subscribe/Procfile",
+		"/media/yagitudeh/WORK/www/enet/subscribe/.openshift/action_hooks/pre_build",
+		"/media/yagitudeh/WORK/www/enet/subscribe/.openshift/action_hooks/README.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"this.request",
+			"http.send",
+			"header",
+			"encodePostData",
+			"constructData",
+			"c[",
+			"extendObject",
+			"lowerCaseKeys",
+			"toLowerCase",
+			"** ",
+			"options.",
+			"** ",
+			"**",
+			"`**",
+			"`options",
+			"` ",
+			"==",
+			"console.log",
+			"email",
+			"error",
+			"cli.write",
+			"cli.print",
+			"vendorLoad",
+			"more_contact",
+			"templateElementHome",
+			"data-cfemail",
+			"more_contact",
+			"display:none;visibility:hidden;",
+			"data-cfsrc",
+			"supInfo_left",
+			"console.log('",
+			"};;",
+			"}",
+			" \n",
+			"[i]",
+			"page",
+			"VendorListPage",
+			"	\n",
+			"pathname",
+			"			\n",
+			"'",
+			",",
+			"'",
+			"php",
+			"./",
+			" ",
+			"compilejs ",
+			"mkdir",
+			",",
+			" && ",
+			"compliejs",
+			"compiled",
+			"JCMS::",
+			"JSON",
+			"PORT",
+			" \n",
+			"jieditor-context",
+			"iframe.window",
+			"Coll",
+			"			\n",
+			"init",
+			"initMcache",
+			"drawMenuItems",
+			"execCommand",
+			"console",
+			"self",
+			"this.",
+			"hashbang",
+			"console",
+			"clearRoot",
+			"();",
+			"});",
+			"deleteImage",
+			"customMenu",
+			"lang[i]",
+			"implodeInsertValues",
+			"format",
+			"();\n",
+			"include 'api/Promo.php';",
+			"include 'api/Post.php';",
+			"$vv",
+			"page_",
+			"App.user",
+			"from",
+			"page/:",
+			"Page::",
+			"api/Page",
+			"pages.created",
+			"pageCollection",
+			"page-temp",
+			"pages",
+			"pageView",
+			"pageModel",
+			"pageLang",
+			"page-delete",
+			"page-qr",
+			"editPage",
+			"haspage",
+			"nopage",
+			"pages-btn",
+			"clean",
+			"pages-btn",
+			"editPage",
+			"pageCollection",
+			"pageView",
+			"pageModel",
+			"pageLang",
+			"nopost",
+			"posts",
+			"bool",
+			"imagecontainer",
+			"imagegrid",
+			"pages.created",
+			"page/:",
+			"Page::",
+			"api/Page",
+			"page_",
+			"savebtn",
+			"dropped",
+			"p",
+			"$column",
+			"getValues",
+			"}\n",
+			"$d",
+			"clean",
+			"Error::fatal",
+			"$e",
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.req",
+			"http.req",
+			"http.request",
+			"extendObj",
+			"//console.log",
+			"console.log",
+			"cli.write",
+			"console.log('\\t",
+			"};",
+			"VendorListPages",
+			"compilejs",
+			"Enet::",
+			"promo/:",
+			"Promo::",
+			"api/Promo",
+			"promo",
+			"promoCollection",
+			"promo-temp",
+			"promos",
+			"promoView",
+			"promoModel",
+			"promoLang",
+			"promo-delete",
+			"promo-qr",
+			"editPromo",
+			"haspromo",
+			"nopromo",
+			"promo-btn",
+			"posts-btn",
+			"editPost",
+			"postCollection",
+			"postView",
+			"postModel",
+			"postLang",
+			"posts",
+			"post/:",
+			"Post::",
+			"api/Post",
+			"Promo::",
+			"api/Promo",
+			"promo",
+			"php",
+			"value",
+			"promoeditor",
+			"posteditor",
+			"posts",
+			"api/Post",
+			"Post::",
+			"post/:id",
+			"post_",
+			"jcms_post",
+			"api/Post.php",
+			"Post::",
+			"posts",
+			"ip_",
+			"`jcms_countries`",
+			"JCMS::$db",
+			"self::$db",
+			"JCMS::$db->",
+			").replace",
+			"//this.event.trigger",
+			"http://goo.gl/bifCEA",
+			"cell cell-",
+			"Navigation",
+			"Menu",
+			"Modules",
+			"User",
+			"10ms",
+			"450ms",
+			"50ms",
+			"500ms",
+			"self::$",
+			"self::",
+			"Vars::$db",
+			"App",
+			";",
+			"=",
+			";",
+			"self::$prefix",
+			"$prefix",
+			"Invoice",
+			"config",
+			"Config",
+			"Tax",
+			"tax",
+			"payment",
+			"Payment",
+			"Estimate",
+			"estimate",
+			"invoice",
+			"Invoice",
+			"apiClassName",
+			"apiEndpoint",
+			">To",
+			"user",
+			"User",
+			"Tax",
+			"tax",
+			"payment",
+			"Payment",
+			"Invoice",
+			"invoice",
+			"Estimate",
+			"estimate",
+			"\"",
+			"\\$",
+			"xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:og=\"http://ogp.me/ns#\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 565.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cookie-manager.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"gallery-test.php"
+			],
+			[
+				"testtemplate",
+				"dev/app/pages/test/testTemplate.html"
+			],
+			[
+				"testcr/",
+				"dev/app/pages/test/test-crud/testCrudTemplate.html"
+			],
+			[
+				"to",
+				"invoice.TODO"
+			],
+			[
+				"main",
+				"asset/js/main.js"
+			],
+			[
+				"app",
+				"app/test/testFactory.js"
+			],
+			[
+				"app/",
+				"app/test/testFactory.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

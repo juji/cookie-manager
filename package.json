@@ -1,7 +1,7 @@
 {
   "name": "cookie-manager",
   "version": "0.0.2",
-  "description": "cooki manager for any http client in node.js",
+  "description": "cookie manager for any http client in node.js",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -22,6 +22,11 @@
   "homepage": "https://github.com/juji/cookie-manager",
   "devDependencies": {
     "chai": "^1.9.1",
-    "mocha": "^1.21.4"
+    "chai-as-promised": "^4.1.1",
+    "mocha": "^1.21.4",
+    "q": "^1.0.1"
+  },
+  "dependencies": {
+    "simple-cookie": "0.0.6"
   }
 }
