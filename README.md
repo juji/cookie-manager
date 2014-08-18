@@ -26,12 +26,12 @@ cm.store(
 );
 
 cm.store( 
-	'https://example.com/is/cool', 
-	[
-	  'cnameSecure=cval1sec; Expires=someDate; domain=.example.com; path=/; secure',
-	  'cnameHttpOnly=cval1Http; Expires=someDate; domain=.example.com; path=/; HttpOnly',
-	  'cnameWWW=cvalWWW; Expires=someDate; domain=www.example.com; path=/something'
-	]
+  'https://example.com/is/cool', 
+  [
+    'cnameSecure=cval1sec; Expires=someDate; domain=.example.com; path=/; secure',
+    'cnameHttpOnly=cval1Http; Expires=someDate; domain=.example.com; path=/; HttpOnly',
+    'cnameWWW=cvalWWW; Expires=someDate; domain=www.example.com; path=/something'
+  ]
 );
 ```
 
