@@ -38,6 +38,13 @@ cm.store(
 ###Prepare Cookies for request
 ```javascript
 
+
+
+
+
+
+
+
 // Hey, i want to browse http://example.com/ Please prepare the cookies
 cm.prepare( 'http://example.com' ).should
 .equal('cname=cval; cnameHttpOnly=cval1Http');
@@ -47,21 +54,25 @@ cm.prepare( 'http://cool.example.com' ).should
 .equal('cname=cval; cnameHttpOnly=cval1Http');
 
 // Hey, i want to browse http://www.example.com/something/awesome Please prepare the cookies
-cm.prepare( 'http://www.example.com/something/awesome' )
-.should.equal('cname=cval; cnameHttpOnly=cval1Http; cnameWWW=cvalWWW');
+cm.prepare( 'http://www.example.com/something/awesome' ).should
+.equal('cname=cval; cnameHttpOnly=cval1Http; cname2=cval2');
 
 // Hey, i'm trying to request https://www.example.com/something/awesome
-cm.prepare( 'https://www.example.com/something/awesome' )
-.should.equal('cnameSecure=cval1sec');
+cm.prepare( 'https://www.example.com/something/awesome' ).should
+.equal('cname=cval; cnameSecure=cval1sec; cnameHttpOnly=cval1Http; cname2=cval2');
 
 // Hey, i want to browse http://www.example.com/other/stuff Please prepare the cookies
-cm.prepare( 'http://www.example.com/other/stuff' )
-.should.equal('cname=cval; cnameHttpOnly=cval1Http');
+cm.prepare( 'http://www.example.com/other/stuff' ).should
+.equal('cname=cval; cnameHttpOnly=cval1Http');
 ```
 
 ###For Browser emulation
 ```javascript
-this.document.cookie = cm.prepare( 'https://www.example.com/something/awesome', true );
+this.document.cookie = cm.prepare( 
+							'http://www.example.com/something/awesome', 
+							true 
+						);
+						
 // cname=cval; cname2=cval2
 ```
 
