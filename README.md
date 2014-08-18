@@ -22,15 +22,15 @@ var cm = new CM();
 
 cm.store( 
 	'https://example.com/is/cool', 
-	'cname=cval; Expires='+date+'; domain=.example.com; path=/' 
+	'cname=cval; Expires=someDate; domain=.example.com; path=/' 
 );
 
 cm.store( 
 	'https://example.com/is/cool', 
 	[
-		'cnameSecure=cval1sec; Expires='+date+'; domain=.example.com; path=/; secure',
-		'cnameHttpOnly=cval1Http; Expires='+date+'; domain=.example.com; path=/; HttpOnly',
-		'cnameWWW=cvalWWW; Expires='+date+'; domain=www.example.com; path=/something'
+		'cnameSecure=cval1sec; Expires=someDate; domain=.example.com; path=/; secure',
+		'cnameHttpOnly=cval1Http; Expires=someDate; domain=.example.com; path=/; HttpOnly',
+		'cnameWWW=cvalWWW; Expires=someDate; domain=www.example.com; path=/something'
 	]
 );
 ```
@@ -72,7 +72,7 @@ this.document.cookie = cm.prepare(
 							'http://www.example.com/something/awesome', 
 							true 
 						);
-						
+
 // cname=cval; cname2=cval2
 ```
 
