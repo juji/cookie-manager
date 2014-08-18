@@ -81,3 +81,7 @@ this.document.cookie = cm.prepare(
 cm.prepare( 'http://www.example.com/something/awesome' );
 // empty string.. the cookies have expired.
 ```
+
+cheers,
+
+[jujiyangasli.com](http://jujiyangasli.com)
