@@ -51,7 +51,7 @@ describe('Cookie-manager',function(){
 
 			console.log('	https://www.example.com/something/awesome');
 			cm.prepare( 'https://www.example.com/something/awesome' )
-			.should.equal('cnameSecure=cval1sec');
+			.should.equal('cname=cval; cnameSecure=cval1sec; cnameHttpOnly=cval1Http; cname2=cval2');
 
 			console.log('	http://www.example.com/other/stuff');
 			cm.prepare( 'http://www.example.com/other/stuff' )
