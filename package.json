@@ -1,6 +1,6 @@
 {
   "name": "cookie-manager",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "cookie manager for any http client in node.js",
   "main": "index.js",
   "scripts": {
