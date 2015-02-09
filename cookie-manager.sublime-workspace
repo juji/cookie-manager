@@ -115,38 +115,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.js",
-			"settings":
-			{
-				"buffer_size": 2224,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 2171,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test/test.js",
-			"settings":
-			{
-				"buffer_size": 2478,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 744,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -352,7 +320,9 @@
 	},
 	"file_history":
 	[
+		"/media/yagitudeh/WORK/npm/cookie-manager/index.js",
 		"/media/yagitudeh/WORK/npm/cookie-manager/package.json",
+		"/media/yagitudeh/WORK/npm/cookie-manager/test/test.js",
 		"/media/yagitudeh/WORK/npm/cookie-manager/README.md",
 		"/media/yagitudeh/WORK/npm/cookie-manager/.gitignore",
 		"/media/yagitudeh/WORK/npm/jhttp/package.json",
@@ -477,9 +447,7 @@
 		"/media/yagitudeh/WORK/www/enet/subscribe/index.js",
 		"/media/yagitudeh/WORK/www/enet/subscribe/index.php",
 		"/media/yagitudeh/WORK/www/enet/subscribe/node_modules/socket.io/node_modules/socket.io-client/socket.io.js",
-		"/media/yagitudeh/WORK/www/enet/subscribe/Procfile",
-		"/media/yagitudeh/WORK/www/enet/subscribe/.openshift/action_hooks/pre_build",
-		"/media/yagitudeh/WORK/www/enet/subscribe/.openshift/action_hooks/README.md"
+		"/media/yagitudeh/WORK/www/enet/subscribe/Procfile"
 	],
 	"find":
 	{
@@ -753,125 +721,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2224,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1293,
-								1293
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": -0.0,
-						"translation.y": 758.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2171,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1219,
-								1219
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 391.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "test/test.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								658,
-								658
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 744,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								562,
-								562
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
