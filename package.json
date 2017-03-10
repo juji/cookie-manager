@@ -27,6 +27,7 @@
     "q": "^1.0.1"
   },
   "dependencies": {
-    "simple-cookie": "^0.1.3"
+    "simple-cookie": "^0.1.3",
+    "url": "^0.11.0"
   }
 }
