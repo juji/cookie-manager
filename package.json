@@ -1,6 +1,6 @@
 {
   "name": "cookie-manager",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "cookie manager for any http client in node.js",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "q": "^1.0.1"
   },
   "dependencies": {
-    "simple-cookie": "^1.0.6",
+    "simple-cookie": "^1.0.7",
     "url": "^0.11.0"
   }
 }
